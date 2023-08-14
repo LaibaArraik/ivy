@@ -6,3 +6,4 @@ protobuf
 pydriller
 tqdm
 coverage
+gitpython>=3.1.32 # not directly required, pinned by Snyk to avoid a vulnerability
