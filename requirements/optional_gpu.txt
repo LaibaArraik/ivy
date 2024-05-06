@@ -19,3 +19,4 @@ dm-haiku # unpinned mod_name=haiku
 pydriller
 tqdm
 coverage
+werkzeug>=3.0.3 # not directly required, pinned by Snyk to avoid a vulnerability
